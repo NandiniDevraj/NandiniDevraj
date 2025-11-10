@@ -7,10 +7,10 @@ I'm an AI/ML Engineer and Graduate Researcher at IIT, specializing in Reinforcem
 ### Connect with Me
 
 <p align="left">
-  <a href="nandinidevraj.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://nandinidevaraj.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="linkedin.com/in/nandinidevraj" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/nandinidevraj/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:devarajnandini23@gmail.com">
