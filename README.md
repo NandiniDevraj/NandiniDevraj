@@ -90,5 +90,5 @@ I'm an AI/ML Engineer and Graduate Researcher at IIT, specializing in Reinforcem
   <img src="https://streak-stats.demolab.com?user=NandiniDevraj&theme=radical" alt="GitHub Streak Stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandiniDevraj&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NandiniDevraj&theme=radical" alt="Top Languages"/>
 </p>
