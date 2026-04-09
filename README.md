@@ -16,7 +16,7 @@ I'm an AI/ML Engineer and Graduate Researcher at IIT, specializing in Reinforcem
   <a href="mailto:devarajnandini23@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://leetcode.com/u/Nandini-Devraj/" target="_blank" rel="noopener noreferrer">
+  <a  target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   
